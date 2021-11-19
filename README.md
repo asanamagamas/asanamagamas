@@ -1,4 +1,4 @@
-## नमस्ते (Namaste)<img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/64/000000/external-namaste-india-icongeek26-linear-colour-icongeek26.png"/>, I am [Manasa Samaga](https://github.com/manasasamaga)
+## नमस्ते (Namaste), I am [Manasa Samaga](https://github.com/manasasamaga)
 <h2 align="left">
  <abc>
    Full Stack Web Developer :computer:<br>
@@ -6,6 +6,7 @@
     <center><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500"></center>
  </abc>
 </h2> 
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -23,7 +24,9 @@
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
 </p>
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+
 - :computer: I'm currently Learning Full stack development
 - :hourglass_flowing_sand:  Exploring DSA,Quantum Computing,Blockchain,AR/VR 
 - 🎯 Do Something Innovative,creative and Unique in life
@@ -32,11 +35,14 @@
 - 🏃 Fitness Freak
 - 🏠 Bangalore,India 
 - 💟 🎨 🎻 🏞️ 🎥 🎵 
+ 
+
 <p align="center">
     <a href="https://github.com/manasasamaga/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manasa Samaga's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manasasamaga&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/manasasamaga/github-readme-stats"><img alt="Manasa Samaga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manasasamaga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -48,6 +54,7 @@
 <a href="https://github.com/manasasamaga/github-readme-activity-graph"><img alt="Manasa Samaga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manasasamaga&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+
 <h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
 <a href = "https://www.linkedin.com/in/manasasamaga/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -56,7 +63,9 @@
 <a href = "https://www.facebook.com/manasasb"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "manasasb17@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-P3qeKxkXZg7o0bqG9wyeA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-## ❤ Views and Followers
+
+ 
+## 👀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manasasamaga">
 </a>
