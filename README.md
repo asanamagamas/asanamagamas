@@ -1,5 +1,5 @@
 <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="30"><br>
-
+<img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" alt="Coder GIF" width="500">
 <!--
 **manasasamaga/manasasamaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
