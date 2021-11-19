@@ -28,7 +28,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently Learning Full stack development
-- 🏫 REVA University BTech ComputerScience Engineering (2017-2021) CGPA:9.1/10
+- 🏫 REVA University-BTech ComputerScience Engineering (2017-2021) CGPA:9.1/10
 - :hourglass_flowing_sand:  Exploring DSA,Quantum Computing,Blockchain,AR/VR 
 - 🎯 Do Something Innovative,creative and Unique in life
 - 🧠 control your mind
