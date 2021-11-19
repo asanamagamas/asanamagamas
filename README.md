@@ -1,4 +1,4 @@
-## नमस्ते (Namaste), I am [Manasa Samaga](https://github.com/manasasamaga)
+## नमस्ते (Namaste) 😄, I am [Manasa Samaga](https://github.com/manasasamaga)
 <h2 align="left">
  <abc>
    Full Stack Web Developer :computer:<br>
@@ -28,6 +28,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently Learning Full stack development
+- 🏫 REVA University BTech ComputerScience Engineering (2017-2021) CGPA:9.1/10
 - :hourglass_flowing_sand:  Exploring DSA,Quantum Computing,Blockchain,AR/VR 
 - 🎯 Do Something Innovative,creative and Unique in life
 - 🧠 control your mind
@@ -45,7 +46,6 @@
 
 ## 📊 My Github Stats
   <br/>
-  ![Manasa Samaga's github stats](https://github-readme-stats.vercel.app/api?username=manasasamaga&show_icons=true&theme=dracula)
     <a href="https://github.com/manasasamaga/github-readme-stats"><img alt="Manasa Samaga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manasasamaga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/manasasamaga/github-readme-stats"><img alt="Manasa Samaga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasasamaga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
