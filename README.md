@@ -21,6 +21,8 @@
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -30,10 +32,10 @@
 - 🧠 control your mind
 - 🌳 🌏 Fight for Climate Change
 - 🏃 Fitness Freak
-- 🇮🇳 Indian 
-- 
-
-
+- 🏠 Bangalore,India
+- 🎯 Do Something Innovative,creative and Unique in life 
+- 👩‍🎨 painting 🎨 violin 🎻
+- 🏞️ traveling 💙
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
@@ -42,7 +44,8 @@
 <a href = "https://www.linkedin.com/in/manasasamaga/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ManasaSamaga"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/manasa.samaga/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- <a href = "https://www.facebook.com/manasasb"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/manasasb"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "manasasb17@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-P3qeKxkXZg7o0bqG9wyeA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
  
 
