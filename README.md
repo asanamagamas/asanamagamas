@@ -32,7 +32,7 @@
 - :hourglass_flowing_sand:  Exploring DSA,Quantum Computing,Blockchain,AR/VR 
 - 🎯 Do Something Innovative,creative and Unique in life
 - 🧠 control your mind
-- 🌳 🌏 Fight for Climate Change
+- 🌳 🌏 Fight for Climate Change 
 - 🏃 Fitness Freak
 - 🏠 Bangalore,India 
 - 💟 🎨 🎻 🏞️ 🎥 🎵 
