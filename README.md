@@ -39,20 +39,20 @@
  
 
 <p align="center">
-    <a href="https://github.com/manasasamagab/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manasa Samaga's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manasasamagab&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/asanamagamas/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manasa Samaga's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asanamagamas&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/manasasamagab/github-readme-stats"><img alt="Manasa Samaga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manasasamagab&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/manasasamagab/github-readme-stats"><img alt="Manasa Samaga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasasamagab&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/asanamagamas/github-readme-stats"><img alt="Manasa Samaga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asanamagamas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/asanamagamas/github-readme-stats"><img alt="Manasa Samaga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanamagamas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<a href="https://github.com/manasasamagab/github-readme-activity-graph"><img alt="Manasa Samaga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manasasamagab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/asanamagamas/github-readme-activity-graph"><img alt="Manasa Samaga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asanamagamas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
@@ -69,6 +69,6 @@
  
 ## 👀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=manasasamaga">
+    <img src="https://komarev.com/ghpvc/?username=asanamagamas">
 </a>
 <a href="https://github.com/manasasamaga?tab=followers"><img src="https://img.shields.io/github/followers/manasasamaga?label=Followers&style=social" alt="GitHub Badge"></a>
