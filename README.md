@@ -9,7 +9,7 @@
 
 <h2 align="left">:hammer_and_wrench: Tools I know:</h2>
 <p align="left">
-    <img src="https://icons8.com/icon/oOOSYZyuA844/deep-learning"/>
+  
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
