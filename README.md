@@ -1,4 +1,4 @@
-## नमस्ते (Namaste) 😄, I am [Manasa Samaga](https://github.com/manasasamaga)
+## नमस्ते (Namaste) 😄, I am [Manasa Samaga](https://github.com/manasasamaga17)
 <h2 align="left">
  <abc>
    Full Stack Web Developer :computer:<br>
