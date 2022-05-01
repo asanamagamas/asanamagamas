@@ -1,13 +1,13 @@
 ## नमस्ते (Namaste) 😄, I am [Manasa Samaga](https://github.com/manasasamaga17)
 <h2 align="left">
  <abc>
-    :computer:<br>
+    DATA SCIENCE BLOCKCHAIN QUANTUM COMPUTERS :computer:<br>
   <br>
     <center><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500"></center>
  </abc>
 </h2> 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Tools I know:</h2>
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
@@ -16,21 +16,15 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently Learning Full stack development
+- :computer: I am currently learning Data Science
 - 🏫 REVA University-BTech ComputerScience Engineering (2017-2021) CGPA:9.1/10
-- :hourglass_flowing_sand:  Exploring DSA,Quantum Computing,Blockchain,AR/VR 
-- 🎯 Do Something Innovative,creative and Unique in life
+- :hourglass_flowing_sand:  Exploring Artificial intelligence,Quantum Computing,Blockchain,AR/VR 
+- 🎯 Do Something Impossible,creative and Unique in life
 - 🧠 control your mind
 - 🌳 🌏 Fight for Climate Change 
 - 🏃 Fitness Freak
