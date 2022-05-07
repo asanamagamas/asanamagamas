@@ -1,7 +1,7 @@
 ## नमस्ते (Namaste) 😄, I am [Manasa Samaga](https://github.com/manasasamaga17)
 <h2 align="left">
  <abc>
-    Deep Learning Engineer :computer:<br>
+ :computer:<br>
   <br>
     <center><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500"></center>
  </abc>
